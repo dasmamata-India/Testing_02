@@ -1,4 +1,5 @@
-# A comparative study on tf-idf feature weighting method and its analysis using unstructured dataset
+# tf-idf-feature-weighting-method
+A comparative study on tf-idf feature weighting method and its analysis using unstructured dataset
 
 Text Classification is the process of categorizing text into the relevant categories and its
 algorithms are at the core of many Natural Language Processing (NLP). Term Frequency-Inverse
